@@ -1,0 +1,56 @@
+        {
+          "messaging_product": "whatsapp",
+          "to": "923122302146",
+          "type": "template",
+          "template": {
+              "name": "send_button_wpmarketting", // Ensure this name matches your approved template
+              "language": {
+                  "code": "en_US"
+              },
+              "components": [
+                  {
+                      "type": "header",
+                      "parameters": []
+                  },
+                  {
+                      "type": "body",
+                      "parameters": [
+                          {
+                              "type": "text",
+                              "text": "asa" // Replace with actual text value
+                          },
+                          {
+                              "type": "text",
+                              "text": "sdas" // Replace with actual text value
+                          }
+                      ]
+                  }
+              ]
+          }
+      }
+
+
+
+
+{
+    "messaging_product": "whatsapp",
+    "to": "923122302146",
+    "type": "template",
+    "template": {
+        "name": "send_button_wpmarketting",
+        "language": {
+            "code": "en_US"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "hbasdasd"
+                    }
+                ]
+            }
+        ]
+    }
+}
